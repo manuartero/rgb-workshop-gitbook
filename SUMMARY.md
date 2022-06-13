@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Temario](README.md)
+* [Bienvenidos](README.md)
 
 ## Sesión 1
 
@@ -12,6 +12,7 @@
   * [Configuración](sesion-1/2.-trabajo-eficiente-con-git/configuracion.md)
   * [Herramientas visuales](sesion-1/2.-trabajo-eficiente-con-git/herramientas-visuales.md)
   * [🖥 Comandos](sesion-1/2.-trabajo-eficiente-con-git/comandos.md)
+  * [Hooks](sesion-1/2.-trabajo-eficiente-con-git/hooks.md)
 * [3. Gestión de conflictos](sesion-1/3.-gestion-de-conflictos/README.md)
   * [🖥 Proyecto de ejemplo](sesion-1/3.-gestion-de-conflictos/proyecto-de-ejemplo.md)
 

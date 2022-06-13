@@ -1,7 +1,6 @@
 ---
 cover: https://i.pinimg.com/originals/f6/95/48/f6954825f6271fce87c07ff0475e117a.jpg
 coverY: 0
-layout: editorial
 ---
 
 # 1. Metodologías ágiles
@@ -39,3 +38,4 @@ _Agile_ se puede resumir en dos ideas:
 * Desplegar
 {% endhint %}
 
+<img src="../../.gitbook/assets/file.drawing.svg" alt="Desplegar frecuentemente: representación visual " class="gitbook-drawing">

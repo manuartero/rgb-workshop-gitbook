@@ -1,7 +1,8 @@
 ---
+description: Documentación y ejemplos para la formación "Buenas prácticas con React'
 layout: landing
 ---
 
-# Temario
+# Bienvenidos
 
 {% file src=".gitbook/assets/temario.pdf" %}
