@@ -4,10 +4,14 @@
 
 ## Sesión 1
 
-* [1. Metodologías ágiles](sesion-1/1.-metodologias-agiles.md)
+* [1. Metodologías ágiles](sesion-1/1.-metodologias-agiles/README.md)
+  * [Manifiesto por el desarrollo ágil](sesion-1/1.-metodologias-agiles/manifiesto-por-el-desarrollo-agil.md)
+  * [Kanban y Scrum](sesion-1/1.-metodologias-agiles/kanban-y-scrum.md)
+  * [🖥 Herramientas](sesion-1/1.-metodologias-agiles/herramientas.md)
 * [2. Trabajo eficiente con git](sesion-1/2.-trabajo-eficiente-con-git/README.md)
   * [Configuración](sesion-1/2.-trabajo-eficiente-con-git/configuracion.md)
   * [Herramientas visuales](sesion-1/2.-trabajo-eficiente-con-git/herramientas-visuales.md)
+  * [🖥 Comandos](sesion-1/2.-trabajo-eficiente-con-git/comandos.md)
 * [3. Gestión de conflictos](sesion-1/3.-gestion-de-conflictos/README.md)
   * [🖥 Proyecto de ejemplo](sesion-1/3.-gestion-de-conflictos/proyecto-de-ejemplo.md)
 

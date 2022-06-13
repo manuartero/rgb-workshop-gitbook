@@ -25,7 +25,7 @@ git config --global -l
 	template = /Users/cx01885/.stCommitMsg
 ```
 
-#### \`.gitignore\`
+#### .gitignore
 
 1. **Local**: solo para el proyecto
    * [Herramienta para crear .gitignore](https://www.toptal.com/developers/gitignore)
