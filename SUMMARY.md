@@ -27,6 +27,7 @@
     * [Ejemplo 3 - marketplace](sesion-2/5.-testing/proyecto-de-ejemplo/ejemplo-3-marketplace.md)
     * [Ejemplo 4 - hook](sesion-2/5.-testing/proyecto-de-ejemplo/ejemplo-4-hook.md)
     * [Ejemplo 5 - Auth Context](sesion-2/5.-testing/proyecto-de-ejemplo/ejemplo-5-auth-context.md)
+  * [🖥 Testing e2e](sesion-2/5.-testing/testing-e2e.md)
 
 ## Sesión 3
 
