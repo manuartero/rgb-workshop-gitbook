@@ -1,5 +1,7 @@
 # Ejemplo 3 - marketplace
 
+{% tabs %}
+{% tab title="marketplace.tsx" %}
 ```jsx
 import React from "react"
 import { getItems } from "../services/api.js"
@@ -28,10 +30,11 @@ function Marketplace() {
 }
 
 export default Marketplace
-
 ```
+{% endtab %}
 
-```jsx
+{% tab title="marketplace.test.tsx" %}
+```tsx
 import { render, screen, waitFor } from "@testing-library/react";
 import * as api from "./simple-ts-app/src/services/api.js";
 import Marketplace from "./simple-ts-app/src/components/marketplace";
@@ -67,5 +70,6 @@ describe("<Marketplace />", () => {
     });
   });
 });
-
 ```
+{% endtab %}
+{% endtabs %}

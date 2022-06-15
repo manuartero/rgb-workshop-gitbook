@@ -25,6 +25,8 @@
     * [Ejemplo 1 - carrito](sesion-2/5.-testing/proyecto-de-ejemplo/ejemplo-1-carrito.md)
     * [Ejemplo 2 - items](sesion-2/5.-testing/proyecto-de-ejemplo/ejemplo-2-items.md)
     * [Ejemplo 3 - marketplace](sesion-2/5.-testing/proyecto-de-ejemplo/ejemplo-3-marketplace.md)
+    * [Ejemplo 4 - hook](sesion-2/5.-testing/proyecto-de-ejemplo/ejemplo-4-hook.md)
+    * [Ejemplo 5 - Auth Context](sesion-2/5.-testing/proyecto-de-ejemplo/ejemplo-5-auth-context.md)
 
 ## Sesión 3
 

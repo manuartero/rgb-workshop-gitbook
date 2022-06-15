@@ -13,3 +13,11 @@
 {% content-ref url="ejemplo-3-marketplace.md" %}
 [ejemplo-3-marketplace.md](ejemplo-3-marketplace.md)
 {% endcontent-ref %}
+
+{% content-ref url="ejemplo-4-hook.md" %}
+[ejemplo-4-hook.md](ejemplo-4-hook.md)
+{% endcontent-ref %}
+
+{% content-ref url="ejemplo-5-auth-context.md" %}
+[ejemplo-5-auth-context.md](ejemplo-5-auth-context.md)
+{% endcontent-ref %}
