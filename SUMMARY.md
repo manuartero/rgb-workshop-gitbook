@@ -34,10 +34,12 @@
 * [6. Principios SOLID](sesion-3/6.-principios-solid.md)
 * [7. Refactoring](sesion-3/7.-refactoring.md)
 * [8. Patrones comunes en React](sesion-3/8.-patrones-comunes-en-react.md)
+* [🖥 Ejemplo: useContext()](sesion-3/ejemplo-usecontext.md)
 
 ## Sesión 4
 
-* [9. Código Limpio](sesion-4/9.-codigo-limpio.md)
+* [9. Código Limpio](sesion-4/9.-codigo-limpio/README.md)
+  * [Simple >>> complejo](sesion-4/9.-codigo-limpio/simple-greater-than-greater-than-greater-than-complejo.md)
 * [10. Nombrado](sesion-4/10.-nombrado.md)
 * [11. Funciones](sesion-4/11.-funciones.md)
 
