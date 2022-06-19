@@ -1,3 +1,8 @@
+---
+cover: https://stancalau.ro/wp-content/uploads/2020/04/CleanCode.jpg
+coverY: 250.88082901554404
+---
+
 # 9. Código Limpio
 
 {% hint style="success" %}
