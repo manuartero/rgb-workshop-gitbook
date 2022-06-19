@@ -35,6 +35,7 @@
 * [7. Refactoring](sesion-4/9.-codigo-limpio.md)
 * [8. Patrones comunes en React](sesion-3/8.-patrones-comunes-en-react.md)
 * [🖥 Ejemplo: useContext()](sesion-3/ejemplo-usecontext.md)
+* [🖥 Ejemplo: useReducer()](sesion-3/ejemplo-usereducer.md)
 
 ## Sesión 4
 
