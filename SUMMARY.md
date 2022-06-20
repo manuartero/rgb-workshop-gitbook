@@ -15,6 +15,7 @@
   * [Hooks](sesion-1/2.-trabajo-eficiente-con-git/hooks.md)
 * [3. Gestión de conflictos](sesion-1/3.-gestion-de-conflictos/README.md)
   * [🖥 Proyecto de ejemplo](sesion-1/3.-gestion-de-conflictos/proyecto-de-ejemplo.md)
+  * [✔ Ejercicio sesión 1](sesion-1/3.-gestion-de-conflictos/ejercicio-sesion-1.md)
 
 ## Sesión 2
 
@@ -27,6 +28,7 @@
     * [Ejemplo 3 - marketplace](sesion-2/5.-testing/proyecto-de-ejemplo/ejemplo-3-marketplace.md)
     * [Ejemplo 4 - hook](sesion-2/5.-testing/proyecto-de-ejemplo/ejemplo-4-hook.md)
     * [Ejemplo 5 - Auth Context](sesion-2/5.-testing/proyecto-de-ejemplo/ejemplo-5-auth-context.md)
+  * [✔ Ejercicio sesión 2](sesion-2/5.-testing/ejercicio-sesion-2.md)
   * [🖥 Testing e2e](sesion-2/5.-testing/testing-e2e.md)
 
 ## Sesión 3
