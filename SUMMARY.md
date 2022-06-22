@@ -38,6 +38,7 @@
 * [8. Patrones comunes en React](sesion-3/8.-patrones-comunes-en-react/README.md)
   * [🖥 Ejemplo: useContext()](sesion-3/8.-patrones-comunes-en-react/ejemplo-usecontext.md)
   * [🖥 Ejemplo: useReducer()](sesion-3/8.-patrones-comunes-en-react/ejemplo-usereducer.md)
+  * [✔ Ejercicio Sesión 3](sesion-3/8.-patrones-comunes-en-react/ejercicio-sesion-3.md)
 
 ## Sesión 4
 
