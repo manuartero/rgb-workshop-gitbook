@@ -28,4 +28,7 @@ _Que no se nos olvide_
 			"export default ${TM_FILENAME_BASE/(.*)/${1:/pascalcase}/};"
 		]
 	},
+	
 ```
+
+{% embed url="https://github.com/manuartero/rgb-final-example" %}
